@@ -1048,6 +1048,3 @@ If a user's workflow triggers on every ticket and includes both `summarize` + `t
 
 ---
 
-## License
-
-MIT
